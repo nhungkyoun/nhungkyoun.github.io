@@ -1,0 +1,14 @@
+img + em {
+    font-style: normal;
+    display: inherit;
+    text-align: center;
+    font-size: 90%;
+}
+
+strong {
+    color: red;
+}
+
+blockquote {
+    text-align: center;
+}

@@ -12,3 +12,8 @@ strong {
 blockquote {
     text-align: center;
 }
+
+
+h3, h2 {
+    margin-top: 5rem;
+}
